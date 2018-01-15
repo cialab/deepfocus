@@ -14,6 +14,7 @@ import time
 import os
 import glob
 import csv
+#version 1.0 generated on 6/15/2016
 
 
 def writeXML(filename,data):
