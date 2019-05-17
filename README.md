@@ -1,5 +1,9 @@
 # DeepFocus
 The codes of the DeepFocus project will be shared in this page.
+
+Paper:
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0205387&type=printable
+
 ## Prerequisites
 * Python 3.x
 * Tensorflow
